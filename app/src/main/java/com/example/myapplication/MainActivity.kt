@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         println("new feature added")
 
+        println("second feature")
+
     }
 }
